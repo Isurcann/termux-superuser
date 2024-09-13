@@ -1,6 +1,6 @@
 # Termux Superuser
 Runs Android su with all Termux binaries included, in superuser mode. Which implies you can run binaries like nano, vim in su mode. 
-[Rooted Andriod]   
+[Rooted Andriod ONLY]   
 **NOTE:**  
  -> This not same as tsu apt package.
  - tsu's interpreter: /data/data/com.termux/files/usr/bin/bash = which is same as termux interpreter.
